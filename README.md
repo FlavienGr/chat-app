@@ -14,3 +14,4 @@ link web: [Chat App](https://fg-chatapp.herokuapp.com/)
 - Nodemon
 - Express
 - bad-words
+- Socket.io
